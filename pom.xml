@@ -102,6 +102,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.jakewharton.android.repackaged</groupId>
+      <artifactId>dalvik-dx</artifactId>
+      <version>7.1.0_r7</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.github.jnr</groupId>
       <artifactId>jnr-x86asm</artifactId>
       <version>1.0.2</version>
